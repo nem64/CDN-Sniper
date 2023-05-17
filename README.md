@@ -2,6 +2,7 @@
 A program to scan all the IPs of an ASN and return ones matching a commonName
 
 # Usage
+```
   -asn string
     	The ASN to pull the addresses from (default "203214")
   -commonName string
@@ -10,3 +11,4 @@ A program to scan all the IPs of an ASN and return ones matching a commonName
     	How many addresses to scan per second (default 100)
   -timeout int
     	How many seconds to wait for each host to respond (default 10)
+```
