@@ -19,3 +19,4 @@ Nothing much to it. This project requires no external libraries. Everything is c
   -timeout int
     	How many seconds to wait for each host to respond (default 10)
 ```
+**The program outputs the addresses to stdout. Redirect stdout to a file if needed!**
